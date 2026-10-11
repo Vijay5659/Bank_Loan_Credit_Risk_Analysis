@@ -33,6 +33,14 @@ This project analyzes bank loan data using SQL Server and Power BI to understand
 - `Bank_Loan_Credit_Risk_Analysis.sql` — SQL queries
 - `Bank_Loan_Credit_Risk_Analysis_Report.docx` — Project report
 
+## Dashboard Preview
+
+### Main Dashboard
+![Bank Loan & Credit Risk Dashboard](dashboard.png)
+
+### Key Insights
+![Key Insights Dashboard](key-insights.png)
+
 ## Conclusion
 This project demonstrates how SQL Server and Power BI can transform loan data into useful visual insights for credit-risk analysis.
 
